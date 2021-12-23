@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm _[Michael](ra6.io)_
+## I'm _[Michael](https://ra6.io)_
 
 <!--
   https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
