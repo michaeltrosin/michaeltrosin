@@ -8,3 +8,4 @@
 ![](https://img.shields.io/static/v1?style=flat&label=Living&message=TS&color=blue&logo=typescript)
 ![](https://img.shields.io/static/v1?style=flat&label=Working%20with&message=React&color=green&logo=react)
 ![](https://img.shields.io/static/v1?style=flat&label=Playing%20with&message=Electron&color=informational&logo=electron)
+![](https://img.shields.io/static/v1?style=flat&label=Breadboarding%20with&message=Arduino&color=orange)
